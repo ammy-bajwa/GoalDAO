@@ -1,12 +1,12 @@
 {
-  "name": "mydao",
+  "name": "goal-dao",
   "version": "0.1.0",
   "private": true,
   "engines": {
     "node": ">=16.0.0"
   },
   "dependencies": {
-    "@3rdweb/hooks": "^1.6.0",
+    "@3rdweb/hooks": "^1.9.2",
     "@3rdweb/sdk": "^1.27.1",
     "dotenv": "^10.0.0",
     "ethers": "^5.5.2",
